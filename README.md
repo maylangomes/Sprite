@@ -1,4 +1,4 @@
-Commande pour lancer le programme :
+Commands to start the script :
 
 php css_generator.php img
 
