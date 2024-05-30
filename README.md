@@ -16,4 +16,5 @@ Name of the generated stylesheet. If blank, the default name is « style.css »
 EXEMPLE :
 
 php css_generator.php -r img
+
 php css_generator.php --output-image=MYSPRITE img
